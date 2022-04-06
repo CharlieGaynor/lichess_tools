@@ -1,0 +1,7 @@
+/stockfish
+stockfish
+stockfish/
+*.exe
+*/stockfish/*
+stockfish
+stockfish/*
