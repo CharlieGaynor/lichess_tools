@@ -2,3 +2,6 @@ stockfish/*
 stockfish/**
 stockfish
 chromedriver
+selenium
+selenium/
+.DS_Store
